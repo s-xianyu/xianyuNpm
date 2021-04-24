@@ -2,9 +2,11 @@
   "name": "woshiyitiaoxianyu-npm",
   "version": "1.0.3",
   "private": false,
+  "description:": "我是一条咸鱼",
   "author": "xianyuya <s22529634@aliyun.com>",
   "license": "MIT",
   "main": "lib/woshiyitiaoxianyu-npm.umd.min.js",
+  "homepage": "http:// blob/xianyuya.ltd/",
   "keywords": [
     "vue",
     "countNumber"
@@ -16,7 +18,7 @@
   "files": [
     "lib",
     "packages",
-    "src"
+    "examples"
   ],
   "scripts": {
     "lib": "vue-cli-service build --target lib --name woshiyitiaoxianyu-npm --dest lib packages/index.js",
