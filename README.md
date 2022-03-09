@@ -1,24 +1,10 @@
 # xianyu-npm
 
-## Project setup
+## 安装
+```javascript
+npm install woshiyitiaoxianyu-npm -D
 ```
-yarn install
+## 测试使用
+```html
+<count-number size="70" color="#842fa7">xianyuya</count-number>
 ```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
